@@ -1,0 +1,240 @@
+div {
+    font-size: 16rpx;
+    color: #666;
+    font-family: 'PingFang-SC';
+  }
+
+  li{
+    list-style: none;
+  }
+  .container {
+    position: relative;
+    background: #ffffff;
+  }
+  
+  
+  .hidden {
+    display: none;
+  }
+  
+  .tc {
+    text-align: center;
+  }
+  
+  .tl {
+    text-align: left;
+  }
+  
+  .tr {
+    text-align: right;
+  }
+  .c39{
+    color: #39B690;
+  }
+  .c666 {
+    color: #666;
+  }
+  
+  .c333 {
+    color: #333;
+  }
+  
+  .c000 {
+    color: #000;
+  }
+  
+  .c999 {
+    color: #999;
+  }
+  .c5d{
+    color: #5D5D5D;
+  }
+  
+  .cfff {
+    color: #ffffff;
+  }
+  .red{
+    color:#F25A54;
+    
+  }
+  
+  .fz12 {
+    font-size: 12px;
+  }
+  
+  .fz14 {
+    font-size: 14px;
+  }
+  
+  .fz16 {
+    font-size: 16px;
+  }
+  
+  .fz18 {
+    font-size: 18px;
+  }
+  
+  .fz20 {
+    font-size: 20px;
+  }
+  
+  .fz24 {
+    font-size: 24px;
+  }
+
+  .fw6{
+    font-weight: 600;
+  }
+  .type_red {
+    background: #F25A54;
+    color: #fff;
+  }
+  
+  .type_yellow {
+    background: #ff6a3c;
+    color: #fff;
+  }
+  
+  .type_green {
+    background: #39B690;
+    color: #fff;
+  }
+  
+  .type_pick {
+    background: #ff4856;
+    color: #fff;
+    border: 1px solid #ff4856;
+  }
+  
+  .type_empity {
+    color: #333;
+    border: 1px solid #cccccc;
+  }
+  
+  .button {
+    font-size: 18px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    -moz-border-radius: 5px;
+    /* Firefox */
+    -webkit-border-radius: 5px;
+    /* Safari 和 Chrome */
+    border-radius: 5px;
+    /* Opera 10.5+, 以及使用了IE-CSS3的IE浏览器 */
+  }
+  .normal_dot{
+    width: 9px;
+    height: 9px;
+    display: inline-block;
+    vertical-align: middle;
+    background: url('../assets/normal.png') no-repeat;
+    background-size:cover; 
+    margin:  0 3px;
+  }
+  .up_dot{
+    width: 9px;
+    height: 9px;
+    display: inline-block;
+    vertical-align: middle;
+    background: url('../assets/up.png') no-repeat;
+    background-size:cover; 
+    margin:  0 3px;
+  }
+  .el-table .cell{
+    padding-left:7px ;
+    padding-right: 7px;
+    font-size: 13px;
+    
+  }
+  .el-table td{
+    padding: 15px 0;
+  }
+  .btimg{
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+    vertical-align: middle; 
+    display: inline-block;
+    margin-top: -4px;
+  }
+  .meximg{
+    width: 16px;
+    height: 16px;
+    vertical-align: middle; 
+    display: inline-block;
+    margin-top: -4px;
+    margin-right: 5px;
+  }
+  .qihuo{
+     width: 15px;
+     height: 12px;
+     vertical-align: middle;
+     display: inline-block;
+     background: url('../assets/qihuo.svg') no-repeat;
+     background-size:cover; 
+     margin-top: -4px;
+     margin-right: 3px;
+  }
+  .xianhuo{
+    width: 15px;
+    height: 12px;
+    vertical-align: middle;
+    display: inline-block;
+    background: url('../assets/xianhuo.png') no-repeat;
+    background-size:cover; 
+    margin-top: -4px;
+    margin-right: 3px;
+ }
+ .changwai{
+  width: 15px;
+  height: 12px;
+  vertical-align: middle;
+  display: inline-block;
+  background: url('../assets/changwai.png') no-repeat;
+  background-size:cover; 
+  margin-top: -4px;
+  margin-right: 3px;
+}
+.wakuang{
+  width: 12px;
+  height: 12px;
+  vertical-align: middle;
+  display: inline-block;
+  background: url('../assets/wakuang.png') no-repeat;
+  background-size:cover; 
+  margin-top: -4px;
+  margin-right: 3px;
+}
+  .detailbtn:hover{
+    text-decoration: underline; 
+  }
+  .rateview{
+    color: #fff;
+    border-radius:3px;
+    width: 61px;
+    height: 25px;
+    line-height: 25px;
+    text-align: center; 
+    display: inline-block;
+  }
+  .tellview{
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+
+  }
+  .cointype{
+    padding: 0;
+    cursor: pointer;
+  }
+  .country_icon{
+    width: 20px;
+    height: 15px;
+    display: inline-block;
+    margin-right: 5px;
+    vertical-align: middle;
+} 
+  
